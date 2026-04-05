@@ -1,29 +1,21 @@
-[README.md](https://github.com/user-attachments/files/26485473/README.md)
+[README.md](https://github.com/user-attachments/files/26485505/README.3.md)
 <div align="center">
 
-<!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:e879f9,100:f0abfc&height=200&section=header&text=Soleil%20Kamitto&fontSize=50&fontColor=fff&fontAlignY=38&desc=AI%20Builder%20%E2%80%A2%20Founder%20%E2%80%A2%20Community%20Leader&descAlignY=58&descColor=fce7f3&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:e879f9,100:f0abfc&height=200&section=header&text=Soleil%20Kamitto&fontSize=50&fontColor=fff&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20AI%20for%20Real%20Impact&descAlignY=58&descColor=fce7f3&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&pause=1000&color=D946EF&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%92%AB+I'm+Soleil!;CEO+%40+BioDrop+%7C+ReEscala+Consulting+%E2%9C%A8;Harvard+WECode+Scholar+%F0%9F%8E%80;Top+100+Programmer+in+Latin+America+%F0%9F%8C%8E;Building+AI+for+Latin+America+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&pause=1000&color=D946EF&center=true&vCenter=true&width=650&lines=I+build+AI+that+actually+matters+💜;Machine+Learning+%7C+Computer+Vision+%7C+GenAI+✨;Founder+%40+BioDrop+%7C+ReEscala+Consulting+🚀;Harvard+WECode+Scholar+%7C+Top+100+Programmer+LATAM+🌎;From+Cusco.+First-gen.+Building+anyway+🏔️" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- BADGES ROW -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23c084fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soleilkamitto)
-[![Location](https://img.shields.io/badge/Lima%2C%20Per%C3%BA-%23f0abfc?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Status](https://img.shields.io/badge/Building%20in%20public-%23e879f9?style=for-the-badge&logo=rocket&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Lima%2C%20Perú-%23f0abfc?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Open to](https://img.shields.io/badge/Open%20to%20research%20collabs-%23e879f9?style=for-the-badge&logo=openai&logoColor=white)](#)
 
 </div>
 
 ---
-
-<!-- ABOUT ME SECTION -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&width=100%" />
-</div>
 
 <table align="center">
 <tr>
@@ -33,33 +25,39 @@
 
 ```python
 class Soleil:
-    nombre    = "Soleil Kamitto Nuñez Pumacallahui"
-    origen    = "Cusco 🏔️ → Lima 🌆"
-    rol       = ["CEO @ BioDrop", "CEO @ ReEscala"]
+    foco      = [
+        "Machine Learning",
+        "Generative AI",
+        "Computer Vision",
+        "AI for Real Impact 💜"
+    ]
+    filosofia = "Si no resuelve un problema real,\n              no me interesa construirlo."
+    origen    = "Cusco 🏔️ → Lima 🌆 → el mundo 🌍"
+    roles     = ["CEO @ BioDrop", "CEO @ ReEscala"]
     estudios  = "Computer Science @ UTP 🎓"
     logros    = [
         "Harvard WECode Scholar ✨",
         "Top 100 Programmer LATAM 🌎",
         "IDB & GIZ Backed Founder 💜",
-        "NASA Space Apps Champion 🚀"
+        "NASA Space Apps Champion 🚀",
+        "~9 hackathons ganados"
     ]
-    pasiones  = ["AI/ML", "Biotech", "Community"]
-    actitud   = "First-gen. From Cusco. Building anyway 💫"
 ```
 
 </td>
 <td width="45%" align="center">
 
-## 🌸 *about me*
+### 🌸 *lo que me mueve*
 
-Soy fundadora de **BioDrop** 💧<br/>
-una startup deeptech de IA para<br/>
-tratamiento de agua con biocoagulantes<br/>
-respaldada por el **BID y GIZ**.<br/><br/>
-También CEO de **ReEscala Consulting**,<br/>
-consultoría de IA y ciberseguridad.<br/><br/>
-Creo en usar la tecnología para<br/>
-las comunidades que más lo necesitan 🌸
+No construyo tech por construir.<br/>
+Construyo porque hay comunidades<br/>
+que merecen soluciones reales 💧🧠🐟<br/><br/>
+**BioDrop** usa IA para tratar agua<br/>
+con biocoagulantes naturales.<br/><br/>
+**OceanWatch AI** detecta especies<br/>
+marinas con Computer Vision.<br/><br/>
+**Goalia** conecta estudiantes LATAM<br/>
+con oportunidades internacionales 🌎
 
 </td>
 </tr>
@@ -67,47 +65,55 @@ las comunidades que más lo necesitan 🌸
 
 ---
 
-## ✨ Principales Skills
+## 🧠 Stack de IA
 
 <div align="center">
 
-**IA & Machine Learning**
+**Machine Learning & Deep Learning**
 
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
+[![Keras](https://skillicons.dev/icons?i=keras)](https://skillicons.dev)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23f0abfc?style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-%23e879f9?style=for-the-badge)](#)
+
+**Computer Vision**
+
 [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-%23c084fc?style=for-the-badge&logo=yolo&logoColor=white)](#)
+[![RETFound](https://img.shields.io/badge/RETFound-%23f0abfc?style=for-the-badge&logo=eye&logoColor=white)](#)
+
+**Generative AI & Agentes**
+
+[![LangChain](https://img.shields.io/badge/LangChain-%23e879f9?style=for-the-badge&logo=chainlink&logoColor=white)](#)
+[![LangGraph](https://img.shields.io/badge/LangGraph-%23c084fc?style=for-the-badge&logo=graphql&logoColor=white)](#)
+[![OpenAI](https://img.shields.io/badge/OpenAI-%23f0abfc?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Anthropic](https://img.shields.io/badge/Anthropic-%23e879f9?style=for-the-badge&logo=anthropic&logoColor=white)](#)
 
 **Dev & Cloud**
 
-[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-
-**Otros conocimientos**
-
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 💜 Enfocada en este momento...
+## 💜 Proyectos que importan
 
 <div align="center">
 
-| 🔬 Proyecto | 📝 Descripción | 🛠️ Stack |
+| 🔬 Proyecto | 📝 Qué resuelve | 🛠️ Tech |
 |---|---|---|
-| **BioDrop** | IA para tratamiento de agua | Python · ML · Biotech |
-| **ReEscala Consulting** | Consultoría IA & Ciberseguridad | LLMs · Security · Cloud |
-| **Goalia** 📱 | App para oportunidades internacionales LATAM | Kotlin Multiplatform |
-| **OceanWatch AI** 🐟 | Detección de especies marinas con CV | YOLOv8 · OpenCV · BRUV |
-| **Parkinson's AI** 🧠 | Biomarcadores retinales & detección de marcha | RETFound · mPower |
+| **BioDrop** 💧 | Tratamiento de agua con IA + biocoagulantes naturales · BID & GIZ | ML · Biotech · Python |
+| **OceanWatch AI** 🐟 | Detección de especies marinas en el Pacífico · ~92% accuracy | YOLOv8 · OpenCV · MaxN |
+| **Parkinson's AI** 🧠 | Biomarcadores retinales + detección de marcha desde IMU | RETFound · mPower · EEG |
+| **Goalia** 📱 | App que conecta estudiantes LATAM con oportunidades globales | Kotlin Multiplatform |
+| **ReEscala Consulting** ⚡ | Consultoría de IA y ciberseguridad para empresas | LLMs · Security · Cloud |
 
 </div>
 
@@ -117,46 +123,47 @@ las comunidades que más lo necesitan 🌸
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=soleilkamitto&show_icons=true&theme=radical&bg_color=1a0a2e&title_color=f0abfc&icon_color=e879f9&text_color=fce7f3&border_color=c084fc&hide_border=false&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soleilkamitto&layout=compact&theme=radical&bg_color=1a0a2e&title_color=f0abfc&text_color=fce7f3&border_color=c084fc" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=soleil-kamitto&show_icons=true&theme=radical&bg_color=1a0a2e&title_color=f0abfc&icon_color=e879f9&text_color=fce7f3&border_color=c084fc&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soleil-kamitto&layout=compact&theme=radical&bg_color=1a0a2e&title_color=f0abfc&text_color=fce7f3&border_color=c084fc" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soleilkamitto&theme=radical&background=1a0a2e&ring=e879f9&fire=f0abfc&currStreakLabel=fce7f3&border=c084fc&sideLabels=fce7f3&dates=c084fc&currStreakNum=f0abfc&sideNums=e879f9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soleil-kamitto&theme=radical&background=1a0a2e&ring=e879f9&fire=f0abfc&currStreakLabel=fce7f3&border=c084fc&sideLabels=fce7f3&dates=c084fc&currStreakNum=f0abfc&sideNums=e879f9" />
 
 </div>
 
 ---
 
-## 🌸 Logros
+## ✨ Highlights
 
 <div align="center">
 
-🏆 **~9 hackathons ganados** entre ellos NASA Space Apps, APEC Peru (1er lugar), START HACK Lima (2do lugar)
+🏆 **~9 hackathons ganados** · NASA Space Apps · APEC Peru 🥇 · START HACK Lima 🥈
 
-🎓 **Harvard WECode Scholar** · **HBS Aspire Leaders Community Leader**
+🎓 **Harvard WECode Scholar** · **HBS Aspire Leaders Community Leader** · **Sundai LATAM Club**
 
-🌍 Viajé a 🇨🇭 Suiza · 🇦🇷 Argentina · 🇧🇷 Brasil · 🇪🇨 Ecuador representando a LATAM
+🌍 Representando a LATAM en 🇨🇭 Suiza · 🇦🇷 Argentina · 🇧🇷 Brasil · 🇪🇨 Ecuador
 
-📚 **Publicación científica** sobre bio-coagulantes para tratamiento de aguas residuales
+📄 **Publicación científica** · bio-coagulantes para tratamiento de aguas residuales · UNI/GIRDS
 
-🗽 **Invitada a reunión oficial de la ONU** — New York, mayo 2026
+🗽 **Invitada oficial a la ONU** · Nueva York, mayo 2026
+
+🏔️ **Primera generación. De Chumbivilcas. Construyendo igual.**
 
 </div>
 
 ---
 
-## 💌 Let's connect!
-
 <div align="center">
 
-Si eres estudiante de LATAM, fundadora, o simplemente alguien que quiere cambiar el mundo con tecnología... ¡hablemos! 💜
+### 💌 *¿Construyes IA con propósito? Hablemos.*
 
-[![LinkedIn](https://img.shields.io/badge/soleilkamitto-%23c084fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soleilkamitto)
+Si estás en LATAM, eres estudiante de primera generación,<br/>
+investigadora, fundadora, o simplemente quieres que la tech<br/>
+sirva para algo real... mi DM está abierto 💜
 
-*"Primera generación. De Chumbivilcas. Construyendo igual." 🌸*
+[![LinkedIn](https://img.shields.io/badge/Conectemos%20en%20LinkedIn-%23c084fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soleilkamitto)
 
 </div>
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f0abfc,50:e879f9,100:c084fc&height=120&section=footer" />
