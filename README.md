@@ -1,11 +1,9 @@
-[README (3).md](https://github.com/user-attachments/files/26485933/README.3.md)
+[README (4).md](https://github.com/user-attachments/files/26489402/README.4.md)
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:e879f9,100:f0abfc&height=200&section=header&text=Soleil%20Kamitto&fontSize=50&fontColor=fff&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20AI%20for%20Real%20Impact&descAlignY=58&descColor=fce7f3&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&pause=1000&color=D946EF&center=true&vCenter=true&width=650&lines=I+build+AI+that+actually+matters+💜;Machine+Learning+%7C+Computer+Vision+%7C+GenAI+✨;Founder+%40+BioDrop+%7C+ReEscala+Consulting+🚀;Harvard+WECode+Scholar+%7C+Top+100+Programmer+LATAM+🌎;From+Cusco.+First-gen.+Building+anyway+🏔️" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D946EF&center=true&vCenter=true&width=650&lines=I+build+AI+that+actually+matters+%F0%9F%92%9C;Machine+Learning+%7C+Computer+Vision+%7C+GenAI;Founder+%40+BioDrop+%7C+ReEscala+Consulting;Harvard+WECode+Scholar+%7C+Top+100+LATAM+%F0%9F%8C%8E;From+Cusco.+First-gen.+Building+anyway+%F0%9F%8F%94%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
