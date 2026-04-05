@@ -29,36 +29,18 @@ class Soleil:
         "Computer Vision",
         "AI for Real Impact 💜"
     ]
-    filosofia = "Si no resuelve un problema real,\n              no me interesa construirlo."
+    filosofia = "Si no resuelve un problema real,\n  no me interesa construirlo."
     origen    = "Cusco 🏔️ → Lima 🌆 → el mundo 🌍"
-    roles     = ["CEO @ BioDrop", "CEO @ ReEscala"]
+    roles     = ["CEO @ BioDrop", "Directora @ ReEscala"]
     estudios  = "Computer Science @ UTP 🎓"
     logros    = [
         "Harvard WECode Scholar ✨",
-        "Top 100 Programmer LATAM 🌎",
         "IDB & GIZ Backed Founder 💜",
         "NASA Space Apps Champion 🚀",
         "~9 hackathons ganados"
     ]
 ```
 
-</td>
-<td width="45%" align="center">
-
-### 🌸 *lo que me mueve*
-
-No construyo tech por construir.<br/>
-Construyo porque hay comunidades<br/>
-que merecen soluciones reales 💧🧠🐟<br/><br/>
-**BioDrop** usa IA para tratar agua<br/>
-con biocoagulantes naturales.<br/><br/>
-**OceanWatch AI** detecta especies<br/>
-marinas con Computer Vision.<br/><br/>
-**Goalia** conecta estudiantes LATAM<br/>
-con oportunidades internacionales 🌎
-
-</td>
-</tr>
 </table>
 
 ---
@@ -101,22 +83,6 @@ con oportunidades internacionales 🌎
 
 ---
 
-## 💜 Proyectos que importan
-
-<div align="center">
-
-| 🔬 Proyecto | 📝 Qué resuelve | 🛠️ Tech |
-|---|---|---|
-| **BioDrop** 💧 | Tratamiento de agua con IA + biocoagulantes naturales · BID & GIZ | ML · Biotech · Python |
-| **OceanWatch AI** 🐟 | Detección de especies marinas en el Pacífico · ~92% accuracy | YOLOv8 · OpenCV · MaxN |
-| **Parkinson's AI** 🧠 | Biomarcadores retinales + detección de marcha desde IMU | RETFound · mPower · EEG |
-| **Goalia** 📱 | App que conecta estudiantes LATAM con oportunidades globales | Kotlin Multiplatform |
-| **ReEscala Consulting** ⚡ | Consultoría de IA y ciberseguridad para empresas | LLMs · Security · Cloud |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -142,11 +108,9 @@ con oportunidades internacionales 🌎
 
 🌍 Representando a LATAM en 🇨🇭 Suiza · 🇦🇷 Argentina · 🇧🇷 Brasil · 🇪🇨 Ecuador
 
-📄 **Publicación científica** · bio-coagulantes para tratamiento de aguas residuales · UNI/GIRDS
-
 🗽 **Invitada oficial a la ONU** · Nueva York, mayo 2026
 
-🏔️ **Primera generación. De Chumbivilcas. Construyendo igual.**
+🏔️ **Primera generación. De Chumbivilcas para el mundo.**
 
 </div>
 
