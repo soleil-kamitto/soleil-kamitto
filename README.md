@@ -83,21 +83,6 @@ class Soleil:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=soleil-kamitto&show_icons=true&theme=radical&bg_color=1a0a2e&title_color=f0abfc&icon_color=e879f9&text_color=fce7f3&border_color=c084fc&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soleil-kamitto&layout=compact&theme=radical&bg_color=1a0a2e&title_color=f0abfc&text_color=fce7f3&border_color=c084fc" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soleil-kamitto&theme=radical&background=1a0a2e&ring=e879f9&fire=f0abfc&currStreakLabel=fce7f3&border=c084fc&sideLabels=fce7f3&dates=c084fc&currStreakNum=f0abfc&sideNums=e879f9" />
-
-</div>
-
----
-
 ## ✨ Highlights
 
 <div align="center">
